@@ -55,7 +55,7 @@ Make your site simple! Make the content that employers will want to see front an
 - [Dribble](https://dribbble.com/)
 
 #### Articles
-
+- [Setting up your website with github pages and google domain]{https://medium.com/@jeauxcal/so-you-bought-a-google-domain-name-now-what-5fd72dffe370)
 - [Portfolios to Inspire you](https://medium.com/@learntocodewithme/15-web-developer-portfolios-to-inspire-you-137fb1743cae)
 
 ***Please PR this goal with additional resources that you find helpful and/or your awesome portfolio that you think others would benefit from seeing!***
